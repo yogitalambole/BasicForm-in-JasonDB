@@ -26,8 +26,6 @@
 
 ### Screenshots:
 
-![Dashboard](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Dashboard.PNG)
+![Dashboard](https://github.com/yogitalambole/BasicForm-in-JasonDB/blob/main/JPDB/dashboard.png)
 
 ![Index Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
-
-![Visualize](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Server.PNG)
